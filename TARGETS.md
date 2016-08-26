@@ -27,3 +27,7 @@ rit 大学
 Voice instead
 
 http://www.cs.rit.edu/~rlaz/
+
+hacker news
+
+product hunt
