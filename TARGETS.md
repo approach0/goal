@@ -41,3 +41,5 @@ segment fault, 码云、V2EX
 主动给 major search engine 提交 index: Bing, Google, Baidu, 360, duckduckGo
 
 patreon, kickstart
+
+Indri community
