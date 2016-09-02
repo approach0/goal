@@ -34,7 +34,7 @@ product hunt
 
 燎原
 
-vuejs, KaTeX, mathquill 等 vendor scripts 的 usecase report.
+vuejs, mathjax, mathquill 等 vendor scripts 的 usecase report.
 
 segment fault, 码云、V2EX
 
